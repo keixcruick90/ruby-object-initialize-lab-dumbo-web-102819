@@ -7,7 +7,7 @@ class Dog
     if breed != "Mutt"
       puts breed
     else
-      puts "Mutt"
+      puts breed
     end
     @breed = breed
   end
